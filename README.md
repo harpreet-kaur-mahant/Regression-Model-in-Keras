@@ -45,12 +45,12 @@ Submit your Jupyter Notebook with your code and comments.
 
 
 
+============================================================================================================================================
 
 
 
 
-
-B. Normalize the data (5 marks)
+B. Normalize the data 
 
 Repeat Part A but use a normalized version of the data. Recall that one way to normalize the data is by subtracting the mean from the individual predictors and dividing by the standard deviation.
 
@@ -60,7 +60,7 @@ How does the mean of the mean squared errors compare to that from Step A?
 
 
 
-
+============================================================================================================================================
 
 
 
@@ -74,6 +74,7 @@ How does the mean of the mean squared errors compare to that from Step B?
 
 
 
+============================================================================================================================================
 
 
 
@@ -90,4 +91,5 @@ How does the mean of the mean squared errors compare to that from Step B?
 
 
 
+============================================================================================================================================
 
